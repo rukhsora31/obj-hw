@@ -13,7 +13,8 @@ console.log(car);
 let person = {
     name: 'Gavi',
     surname: 'Paes Gavira',
-    age: 20
+    age: 20,
+    job: 'football player'
 }
 
 let person2 = {...person}
